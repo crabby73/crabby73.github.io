@@ -4,9 +4,6 @@
 
 layout: home
 ---
-
-# Slow Code Manifest
-
 * We love writing code.
 * We love to it right.
 * We believe that writing good code is an art.
